@@ -1,4 +1,4 @@
-# awesome-company-list
+# Awesome Company List
 
 0. Goldman Sachs
 1. Flatiron
