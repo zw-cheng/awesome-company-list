@@ -7,7 +7,7 @@
 4. Riot Games
 5. Jane Street
 6. Mercari
-7. TripActions
+~~7. TripActions~~
 8. Quora
 9. Airbnb
 10. CodeSignal
