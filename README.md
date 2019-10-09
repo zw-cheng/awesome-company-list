@@ -37,3 +37,7 @@
 17. VMware
 
 18. DeepMap
+
+19. Citadel
+
+20. Nvidia
