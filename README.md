@@ -41,3 +41,15 @@
 19. Citadel
 
 20. Nvidia
+
+21. Google
+
+22. Stripe
+
+23. D E Shaw
+
+24. Affirm
+
+25. Ford
+
+26. Expedia
