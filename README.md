@@ -36,7 +36,7 @@
 
 17. VMware
 
-18. DeepMap
+~~18. DeepMap~~
 
 19. Citadel
 
@@ -53,3 +53,7 @@
 25. Ford
 
 26. Expedia
+
+27. Uber
+
+28. Weride
