@@ -36,7 +36,7 @@
 
 17. VMware
 
-~~18. DeepMap~~
+18. DeepMap
 
 19. Citadel
 
@@ -61,3 +61,5 @@
 29. Playstation
 
 30. Github
+
+31. Tusimple
