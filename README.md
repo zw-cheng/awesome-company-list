@@ -1,18 +1,18 @@
 # Awesome Company List
 
-0. Goldman Sachs
+0. Mercari
 
-1. Flatiron
+1. Goldman Sachs
 
-2. Bloomberg
+2. Flatiron
 
-3. Cisco
+3. Bloomberg
 
-4. Riot Games
+4. Cisco
 
-5. Jane Street
+5. Riot Games
 
-6. Mercari
+6. Jane Street
 
 ~~7. TripActions~~
 
@@ -57,3 +57,7 @@
 27. Uber
 
 28. Weride
+
+29. Playstation
+
+30. Github
